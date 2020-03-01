@@ -1,0 +1,17 @@
+.buy-now{
+    background-image: linear-gradient(to bottom,black 0%,black);
+    color:#FFFFFF;
+    border:none;
+    border-radius:8px;
+    padding:9px 25px;
+   cursor: pointer;
+
+}
+.see-all{
+    text-align: end;
+    color:orange;
+    
+}
+.center{
+    text-align: center;
+}
